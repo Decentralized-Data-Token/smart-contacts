@@ -1,0 +1,44 @@
+{
+	"compiler": {
+		"version": "0.5.16+commit.9c3226ce"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"payable": false,
+				"stateMutability": "nonpayable",
+				"type": "constructor"
+			}
+		],
+		"devdoc": {
+			"methods": {}
+		},
+		"userdoc": {
+			"methods": {}
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts\\DedaToken.sol": "Context"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts\\DedaToken.sol": {
+			"keccak256": "0x7179d34d0569799017e1a2fc28288d621ac8d776018701725a2ceff9559b352a",
+			"urls": [
+				"bzz-raw://afd4ac79e42241080a5f64467f154114555105f0154a6954aaf974fc38474102",
+				"dweb:/ipfs/QmQSKa7z4Ew8i83EMBMCJYEPjDonAb2xjkrnN3y8JWC79C"
+			]
+		}
+	},
+	"version": 1
+}
